@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f0f50bcc-d6d1-45ef-8c47-ff3135681279" name="ibaboba" url="http://rudy.zzz.com.ua">
+        <fileTransfer rootFolder="/ibaboba.zzz.com.ua" host="rudy.zzz.com.ua" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
